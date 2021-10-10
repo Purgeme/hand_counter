@@ -12,6 +12,7 @@ It also works with multiple hands
 ### Example:
 
 ![Example1](./Examples/hand1.png)
-
-
 ![Example1](./Examples/num1.png)
+
+![Example2](./Examples/hand2.png)
+![Example2](./Examples/num2.png)
